@@ -1,0 +1,6 @@
+### VS Code ###
+.vscode/
+alembic/__pycache__
+__pycache__/
+**/__init__.py
+
